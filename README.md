@@ -1,4 +1,5 @@
-### Music Generation using Deep Learning
+## Music Generation using Deep Learning
+This project involves training a `LSTM neural network` to `generate midi music files` that make use of `piano` as instrument.
 
 #### Important Points to Note :
 - We have taken all the files and combined them into one single file. So the model does not know how a song ends and how a song starts. It randomly picks notes and does not know that the ending of the song should be soft or the starting should be soft.
